@@ -1,7 +1,7 @@
 # PZQQET kurzform
 \&lt;immersive id="github\_repo\_description\_tiny" type="text/plain"\> SI-Präfixe (Yotta-Quecto) &amp; J.K.'s PZQQET-Skala (QuEkta-QuEtta) erklärt. Datieren Sie phys. Größen &amp; systemische Komplexität der Realität. Verstehen Sie alle Dimensionen der Existenz\! \&lt;/immersive\>
 
-# PZQQET detailliert 
+# ᚲᚢᛁᚾᛏᚨ ᛖᛋᛋᛖᚾᛏᛁᚨ ᚾᛖᚲᛋᚢᛋ -> Quinta-Essentia-Nexus
 &lt;immersive id="github_repo_description" type="text/plain">
 Dieses Repo erklärt alle SI-Präfixe (Yotta-Quecto) zur Messung phys. Größen. Es führt zudem in die PZQQET-Skala (QuEkta-QuEtta) ein, die systemische Komplexität & Realitätstransformation beschreibt. Von der kleinsten Einheit bis zur allumfassenden Kohärenz – verstehen Sie alle Dimensionen der Existenz!
 &lt;/immersive>
